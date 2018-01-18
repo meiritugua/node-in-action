@@ -1,5 +1,7 @@
 # Node.js 实战
 
+> 本开源书 forked from [Node.js 实战](https://github.com/SFantasy/node-in-action)，作者为 [SFantasy](https://github.com/SFantasy)，欢迎大家 star 原作者的 [repo](https://github.com/SFantasy/node-in-action)，以便获得最新更新，谢谢！
+
 这是一本关于 Node.js 实战的小书（更新说明可以[点此查看](./appendix/update.md)），旨在让 Node.js 初学者能够快速创建自己的 Node.js 项目并享受其中的开发和探索的乐趣。
 
 本书假设读者有一定的 JavaScript 语言基础，并尽量通过通俗易懂的文字和三个 Node.js 项目的开发实践过程，帮助读者掌握一些基本的 Node.js 知识和开发技巧：
